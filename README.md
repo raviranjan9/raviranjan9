@@ -1,13 +1,6 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-12970
-Fork on GitHub
-3345
-
 <h1 align="center">Hi 👋, I'm Ravi Ranjan</h1>
 <h3 align="center">Full Stack Developer (MERN)</h3>
-<img align="right" alt="coding" width="400" src="https://quantumhunts.com/user/assets/images/hero/hiring-manager-quantumhunts.gif">
+<img align="right" alt="coding" width="300" src="https://quantumhunts.com/user/assets/images/hero/hiring-manager-quantumhunts.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviranjan9&label=Profile%20views&color=0e75b6&style=flat" alt="raviranjan9" /> </p>
 
